@@ -1,2 +1,2 @@
 # Histogram
-Histogram of duration of multiple audio files.
+Histogram to see the duration of multiple audio files.
